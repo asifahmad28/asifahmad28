@@ -1,11 +1,11 @@
 <!-- Header -->
-<h1 align="center">🚀 Your Name</h1>
-<h3 align="center">Flutter Developer • Digital Architect • Future Innovator</h3>
+<h1 align="center">Asif Ahmad</h1>
+<h3 align="center">Java Developer • Digital Marketer • Graphics Designer</h3>
 
 ---
 
 ## 🧠 About Me
-- 💡 Problem solver | Web Developer | Graphics Design 
+- 💡 Problem solver | Web Developer | Graphics Designer
 - 📍 Based in: Bangladesh  
 - 📫 Reach me at: asifahamd280820ttp@gmail.com  
 - 🌐 Portfolio: https://asifahmad28.github.io/asif-ahmad-portfolio/
