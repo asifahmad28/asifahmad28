@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Asif Ahmad</h1>
-<h3 align="center">Java Developer • Digital Marketer • Graphics Designer</h3>
+<h3 align="center">Backend Developer • Digital Marketer • Graphics Designer</h3>
 
 ---
 
